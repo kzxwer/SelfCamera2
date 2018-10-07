@@ -1,0 +1,4 @@
+#Sun Oct 07 16:20:44 KST 2018
+base.0=C\:\\Users\\pc\\Desktop\\vvvvv\\SelfCamera\\SelfCamera\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+path.0=classes.dex
+renamed.0=classes.dex

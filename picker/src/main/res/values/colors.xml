@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#ffff00</color>
+    <color name="frag_blue_bg">#181D21</color>
+    <color name="sketch_color">#FFFFFF</color>
+    <color name="holo_purple">#9437FF</color>
+    <color name="path_bg">#B3000000</color>
+</resources>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 07 16:34:45 KST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\pc\\Desktop\\vvvvv\\SelfCamera\\SelfCamera\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+0.path=classes.dex
+0.set=DEX
+count=1
